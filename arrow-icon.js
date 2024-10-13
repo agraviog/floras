@@ -2,6 +2,6 @@
 //   document.body.style.display = 'none';
 // };
 
-// window.onload = function () {
-//   location.reload();
-// };
+window.onload = function () {
+  location.reload();
+};
